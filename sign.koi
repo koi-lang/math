@@ -1,0 +1,11 @@
+fun sign(value: int) -> int {
+	if value < 0 {
+		return -1
+	}
+	elf value == 0 {
+		return 0
+	}
+	else {
+		return 1
+	}
+}
